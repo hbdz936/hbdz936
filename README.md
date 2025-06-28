@@ -8,7 +8,7 @@
 
 ### 💼 Noteworthy Projects
 
-🔹 **Job Board Platform **  
+🔹 **Job Board Platform**  
 Tech: React.js, Node.js, MongoDB, Web Scraping  
 > A full-stack web app that tracks job postings and product deals in real time. Developed as a flagship project for my submission to Flipkart GRiD, showcasing scraping, dynamic filtering, and a clean UI/UX.
 
